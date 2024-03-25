@@ -5,7 +5,7 @@
 ## WORK IN PROGRESS :warning:
 <br>
 
-<img src="https://discord.c99.nl/widget/theme-3/842762466428452925.png" />
+<img src="https://discord.c99.nl/widget/theme-3/842762466428452925.png" /> [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 <br>
 
 	
