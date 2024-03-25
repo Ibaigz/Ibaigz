@@ -7,7 +7,7 @@
 
 <img src="https://discord.c99.nl/widget/theme-3/842762466428452925.png" /> 
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://ibaigz.vercel.app" alt="Current Spotify Song">
+  <img src="https://ibaigz-ibais-projects-55b64338.vercel.app/api" alt="Current Spotify Song">
 </a>
 <br>
 
