@@ -4,7 +4,7 @@
 
 ## WORK IN PROGRESS :warning:
 <br>
-[![]https://discord.c99.nl/widget/theme-4/842762466428452925.png]()
+[![](https://discord.c99.nl/widget/theme-4/842762466428452925.png)]()
 <br>
 
 	
