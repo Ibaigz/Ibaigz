@@ -51,9 +51,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/ibaigz/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
 
-###
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/ibaigz/count.svg?"  />
