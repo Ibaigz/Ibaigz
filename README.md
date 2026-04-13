@@ -79,5 +79,5 @@
 ---
 
 <div align="center">
-  <p>✨ Let's build something amazing together ✨</p>
+  <p>Welcome :)</p>
 </div>
