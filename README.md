@@ -24,8 +24,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ibaigz&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibaigz&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
+  <a href="https://github.com/ibaigz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibaigz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/ibaigz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibaigz&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 ---
@@ -77,10 +81,12 @@
 
 ---
 
-## 📈 Profile Views
+## 📈 Profile Activity
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ibaigz/count.svg?" alt="Profile views"/>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibaigz&theme=dracula)](https://github.com/ibaigz)
+
 </div>
 
 ---
