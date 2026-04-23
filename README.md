@@ -16,7 +16,6 @@
 ⚡ Learning new things every day
 💻 Passionate about web development & cloud solutions
 🎮 Occasional game developer
-🔧 Problem solver & tech enthusiast
 ```
 
 ---
@@ -64,7 +63,6 @@
 - 📦 Docker & containerization
 - 🎮 Game development with Unity
 - 🔐 Backend development with Laravel & PHP
-- 🎨 UI/UX & responsive design
 
 ---
 
